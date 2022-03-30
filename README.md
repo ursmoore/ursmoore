@@ -18,11 +18,20 @@ I am a Social Psychologist who turned Artist aiming to end up as a developer in 
 
 Projects
 
-🤣 🌈 💩 Cards Against Humanity Against Yourself <link path={https://github.com/ursmoore/C_A_H_frontend}>🔗</link>
+🤣 🌈 💩 Cards Against Humanity Against Yourself  
 
 Cards Against Humanity Against Yourself is a singleplayer version of the cult card game for horrible people that I programmed during a 7 day portfolio challange. I thought it would be fun to create a horrible joke generator. For that I created a gameplay environment where you can pair and submit card combinations which are stored in a database and can be inspected by every user in the best combinations section. Furthermore I programmed a create-a-card-function for black and white cards, so if you have a horrible idea, you can save it for the world in my RestAPI till eternity. The front-end was developed with React. I used Redux for global state management and for the backend I used Node.js, Sequelize and ElephantSQL.
+🔗 https://github.com/ursmoore/C_A_H_frontend
 
 
-😏 🤣 😱 We Went Through Hell So you Don't Have To 🔗
+😏 🤣 😱 We Went Through Hell So you Don't Have To 
 
 As part of the Codaisseur bootcamp, we had to develop a project in a group using the React framework in approximately four days. My teammate was Emre Tuğutlu and Benjamin Ghassemi and we decided to create a where-not-to-go-to travelblog. The aim of this project was to show that we could use React in other contexts as well. I had a lot of fun working in a team and communicating/discussing implementation solutions.
+🔗 https://github.com/ursmoore/WWTHSOYDHT_Frontend
+
+More info about me
+
+🔗 https://www.linkedin.com/in/urs-moore/
+
+
+
