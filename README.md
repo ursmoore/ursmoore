@@ -1,9 +1,9 @@
 ### FULL STACK DEVELOPER
 
 
-Guten Tag! I am Urs 🌋
+### Guten Tag! I am Urs 🌋
 
-About me 🐡 🐡 🐡
+### About me 🐡 🐡 🐡
 
 I am a Social Psychologist who turned Artist aiming to end up as a developer in tech. I am interested in hermaphroditic organisms and get a laugh out of dark book titles like “The trouble with being born”. Furthermore, I have an indestructible sense of optimism and am a proud father of a one-and-a-half-year-old girl. I came to coding because I love working in teams to collaborate on something that has a much larger impact. I just graduated from the Codaisseur Full-Stack Developer bootcamp which greatly expanded my practical skillset.
 
@@ -15,7 +15,7 @@ I am a Social Psychologist who turned Artist aiming to end up as a developer in 
 - Food
 - Hermaphroditic Organisms
 
-### 🤖 Preferred technologies
+### 🤖 Preferred technologies 🤖
 
 - Languages: Typescript & Javascript
 - Frontend: React REDUX
@@ -33,7 +33,7 @@ I am a Social Psychologist who turned Artist aiming to end up as a developer in 
 </p>
 
 
-### 🛠 Projects 
+### 🛠 Projects 🛠
 
 ### 🤣 🌈 💩 Cards Against Humanity Against Yourself [🔗](https://github.com/ursmoore/C_A_H_frontend) 
 
@@ -48,7 +48,7 @@ As part of the Codaisseur bootcamp, we had to develop a project in a group using
 
 ### More info about me
 
-[🔗 LinkedIn](https://www.linkedin.com/in/urs-moore/)
+[🔗🔗🔗 LinkedIn](https://www.linkedin.com/in/urs-moore/)
 
 
 
