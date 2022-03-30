@@ -37,7 +37,7 @@ I am a Social Psychologist who turned Artist aiming to end up as a developer in 
 
 ### 🤣 🌈 💩 Cards Against Humanity Against Yourself [🔗](https://github.com/ursmoore/C_A_H_frontend) 
 
-Cards Against Humanity Against Yourself is a singleplayer version of the cult card game for horrible people that I programmed during a 7 day portfolio challange. I thought it would be fun to create a horrible joke generator. For that I created a gameplay environment where you can pair and submit card combinations which are stored in a database and can be inspected by every user in the best combinations section. Furthermore I programmed a create-a-card-function for black and white cards, so if you have a horrible idea, you can save it for the world in my RestAPI till eternity. The front-end was developed with React. I used Redux for global state management and for the backend I used Node.js, Sequelize and ElephantSQL.
+Cards Against Humanity Against Yourself is a single-player version of the cult card game for horrible people that I programmed during a 7 day portfolio challenge. I thought it would be fun to create a horrible joke generator. For that I created a gameplay environment where you can pair and submit card combinations which are stored in a database and can be inspected by every user in the best combinations section. Furthermore I programmed a create-a-card-function for black and white cards, so if you have a horrible idea, you can save it for the world in my RestAPI till eternity. The front-end was developed with React. I used Redux for global state management and for the backend I used Node.js, Sequelize and ElephantSQL.
 
 
 
