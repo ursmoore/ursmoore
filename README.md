@@ -35,5 +35,5 @@ More info about me
 
 
 
-Thanks for reading so far! The sun has come out 👀☀
+Thanks for reading so far! I appreciate 👀☀
 
