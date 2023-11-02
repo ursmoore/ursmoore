@@ -5,7 +5,7 @@
 
 ### About me 🐡 🐡 🐡
 
-I am a Social Psychologist who turned Artist aiming to end up as a developer in tech. I am interested in hermaphroditic organisms and get a laugh out of dark book titles like “The trouble with being born”. Furthermore, I have an indestructible sense of optimism and am a proud father of a two-and-a-half-year-old girl. I came to coding because I love working in teams to collaborate on something that has a much larger impact.
+I am a Social Psychologist who turned Artist aiming to end up as a developer in tech. I am interested in hermaphroditic organisms and get a laugh out of dark book titles like “The trouble with being born”. Furthermore, I have an indestructible sense of optimism and am a proud father of a three-year-old girl. I came to coding because I love working in teams to collaborate on something that has a much larger impact.
 
 
 ### I'm 🔥 for
@@ -23,7 +23,7 @@ I am a Social Psychologist who turned Artist aiming to end up as a developer in 
 
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo"> 
+  <img src="https://user-images.githubusercontent.com/31222514/149813755-3f74a208-1e4c-4d81-b848-1d4f1a18b969.png" width="8%" alt="React logo"> 
   <img src="https://user-images.githubusercontent.com/31222514/149813300-65804694-d3ea-4e31-955d-dbc47229a82d.png" width="8%" alt="Typescript logo">
   <img src="https://user-images.githubusercontent.com/31222514/149812547-405716a0-b974-4da4-b749-f2b4a8adc1d8.png" width="8%" alt="Javascript logo">
   <img src="https://user-images.githubusercontent.com/31222514/149813532-e214a55c-9b91-4b71-bb17-0dcf18903f7a.png" width="8%" alt="CSS logo"> 
